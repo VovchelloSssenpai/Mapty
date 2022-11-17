@@ -1,3 +1,3 @@
 # Mapty Project
 
-Running-Cycling map web app, using vanilla JS and API
+Built web app following video-course, using vanilla JS and API
